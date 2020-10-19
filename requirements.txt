@@ -8,14 +8,14 @@ cachetools==4.1.1
 certifi==2020.6.20
 chardet==3.0.4
 click==6.7
-
+cloud-init==19.1
 colorama==0.3.7
-
+command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cryptography==2.1.4
 cycler==0.10.0
-
+distro-info===0.18ubuntu0.18.04.1
 Flask==1.1.2
 gast==0.3.3
 google-auth==1.22.1
@@ -39,7 +39,7 @@ Keras-Preprocessing==1.1.2
 keyring==10.6.0
 keyrings.alt==3.0
 kiwisolver==1.2.0
-
+language-selector==0.1
 Markdown==3.3.1
 MarkupSafe==1.0
 matplotlib==3.3.2
