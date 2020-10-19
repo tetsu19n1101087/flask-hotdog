@@ -6,6 +6,6 @@ def test():
   return render_template("index.html", title = "Flask")
 
 if __name__ == '__main__':
-  app.run()
+  app.run(debug=True, host='0.0.0.0', port=8000)
   print("ok")
 
