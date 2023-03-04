@@ -3,5 +3,6 @@ gunicorn
 Jinja2
 Keras
 pandas
+Pillow
 tensorflow
 numpy
